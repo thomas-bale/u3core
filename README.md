@@ -318,7 +318,7 @@ This project is licensed under a custom license. Please see the [LICENSE](./LICE
 
 |      Name      |      Github      |                Link                 |          Email          |
 |:--------------:|:----------------:|:-----------------------------------:|:-----------------------:|
-|  Thomas Bale   |    tumcuctom     |    https://github.com/TumCucTom     |  hf23482@bristol.ac.uk  |
+|  Thomas Bale   |    thomas-bale     |    https://github.com/thomas-bale     |  hf23482@bristol.ac.uk  |
 | Justice Mintah |   justice-123    |   https://github.com/Justice-123    |  ar23247@bristol.ac.uk  |
 |   Sin Yi Tay   |     sinyitay     |     https://github.com/SinYiTay     |  if21076@bristol.ac.uk  |
 |  William Hook  |   William23292   |   https://github.com/William23292   |  mo23292@bristol.ac.uk  |
